@@ -624,7 +624,7 @@ func TestInjectRuntimeConfigAvailableCommandsCoreOnly(t *testing.T) {
 		"multica issue label list",
 		"multica issue subscriber list",
 		"multica label list",
-		"multica workspace members",
+		"multica workspace member list",
 		"multica agent list",
 		"multica squad list",
 		"multica issue runs",
